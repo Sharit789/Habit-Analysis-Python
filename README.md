@@ -179,8 +179,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [[@your-username](https://github.com/your-username)](https://github.com/Sharit789/Habit-Analysis-Python)
+- LinkedIn: [[your-linkedin](https://linkedin.com/in/your-linkedin)](https://www.linkedin.com/in/sharit-biswas-b91a22283/)
 
 ---
 
